@@ -6,3 +6,4 @@ new line
 ok
 new branch line
 my branch line
+mybranch line
