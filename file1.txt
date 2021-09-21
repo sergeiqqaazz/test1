@@ -1,9 +1,8 @@
 AS
-testing line updete
+testing line
 456
 789.
 new line
 ok
-new branch line
-my branch line
-mybranch line
+
+new branch
