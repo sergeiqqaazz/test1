@@ -2,5 +2,3 @@ AS
 testing line
 456
 789.
-new line
-ok
